@@ -1,3 +1,4 @@
 These are my notes on the Git
+User ID: ericsahm-dcc
 
 git clone url_of_the_repository- use this retreive the repository data from the GitHub server

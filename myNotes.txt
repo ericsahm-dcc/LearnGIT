@@ -1,0 +1,3 @@
+These are my notes on the Git
+
+git clone url_of_the_repository- use this retreive the repository data from the GitHub server
